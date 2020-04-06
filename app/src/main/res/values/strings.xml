@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Soccer Mania</string>
+    <string name="error_text">Something went wrong</string>
+    <string name="search_title">Search Teams</string>
+    <string name="search">Search teams</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+    <string name="upgrade_to_premium">Upgrade to Premium</string>
+</resources>

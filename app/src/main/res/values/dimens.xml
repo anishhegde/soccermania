@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tv_action_bar_title_size">20sp</dimen>
+    <dimen name="tv_card_title_size">18sp</dimen>
+    <dimen name="tv_card_stadium_size">15sp</dimen>
+    <dimen name="padding_tv_action_bar_title">10sp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="margin_card_item_team_home">10dp</dimen>
+    <dimen name="corner_radius_card_item_hom">10dp</dimen>
+    <dimen name="elevation_card_team_home">3dp</dimen>
+    <dimen name="height_card_item_home">170dp</dimen>
+    <dimen name="width_iv_item_home">150dp</dimen>
+    <dimen name="height_iv_item_home">200dp</dimen>
+    <dimen name="padding_iv_item_team_home">10dp</dimen>
+    <dimen name="margin_start_bt_item_home">12dp</dimen>
+    <dimen name="margin_left_bt_item_home">12dp</dimen>
+    <dimen name="margin_bottom_bt_item_home">16dp</dimen>
+    <dimen name="margin_card_item_wallpaper">10dp</dimen>
+    <dimen name="radius_card_item_wallpaper">10dp</dimen>
+    <dimen name="elevation_car_item_wallpaper">3dp</dimen>
+    <dimen name="height_card_item_wallpaper">300dp</dimen>
+    <dimen name="margin_bt_wallpaper_item_wallpaper">16dp</dimen>
+</resources>
